@@ -39,4 +39,3 @@
 * https://github.com/aerogear/mobile-core/tree/master/docs/onboarding/demo-videos.adoc[Demo videos]
 * https://github.com/aerogear/proposals[Aerogear Proposals]
 * https://docs.google.com/document/d/13ErUqR4XZcHMntKvrpOZiP_CZFtDhlGB8L2r47TNDyo/edit?ts=5a2e6c89#heading=h.9ka301chlo11[Mobile.next skills]
-
